@@ -1,0 +1,48 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "67f629ee-36d9-1e97-77e9-eb3156b3de7b",
+      "95041ae9-ab5b-75af-f711-13fcd917f464"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Modeling and Simulation",
+  "course_description": "This subject provides an introduction to modeling and simulation, covering continuum methods, atomistic and molecular simulation, and quantum mechanics. Hands-on training is provided in the fundamentals and applications of these methods to key engineering problems. The lectures provide exposure to areas of application based on the scientific exploitation of the power of computation. We use web based applets for simulations, thus extensive programming skills are not required.\n",
+  "department_numbers": [
+    "3",
+    "1",
+    "10",
+    "18",
+    "22"
+  ],
+  "extra_course_numbers": "1.021J,10.333J,18.361J,22.00J",
+  "primary_course_number": "3.021J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
